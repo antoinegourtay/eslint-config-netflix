@@ -17,6 +17,7 @@ module.exports = {
   'rules': {
     'array-bracket-spacing': 0,
     'array-callback-return': 2,
+    'arrow-parens' : 'as-needed',
     'camelcase': 0,
     'class-methods-use-this': 2,
     'comma-dangle': [ 2, 'never' ],
